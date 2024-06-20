@@ -1,0 +1,30 @@
+.subject-info {
+    font-size: 24px;
+    font-family: monospace;
+    font-style: italic;
+}
+
+.cara-konversi {
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.font-monospace {
+    font-family: cursive;
+}
+
+.Container1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.container2 {
+    text-align: center;
+    font-family: cursive;
+}
+
+.textarea-style {
+    resize: none;
+    border-radius: 10px;
+    background: #87CEFA;
+}
